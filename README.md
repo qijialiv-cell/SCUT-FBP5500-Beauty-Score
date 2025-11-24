@@ -26,13 +26,14 @@ beauty_score/
 
 The experiments and data used in this project are based on the SCUT-FBP5500 dataset. If you use this dataset or results from this repository, please cite the original paper:
 
+```
 @article{liang2017SCUT,
 title     = {SCUT-FBP5500: A Diverse Benchmark Dataset for Multi-Paradigm Facial Beauty Prediction},
 author    = {Liang, Lingyu and Lin, Luojun and Jin, Lianwen and Xie, Duorui and Li, Mengru},
 jurnal    = {ICPR}, 
 year      = {2018}
 }
-
+```
 The dataset folder `SCUT-FBP5500_v2/README.txt` also contains the original README and citation notice from the dataset authors.
 
 ## Requirements
